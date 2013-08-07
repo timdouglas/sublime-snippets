@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+http://placekitten.com/${1:g}/${2:width}/${3:height}
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>placekitten</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <description>placekitten image url</description>
+</snippet>

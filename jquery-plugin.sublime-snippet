@@ -1,0 +1,18 @@
+<snippet>
+  <content><![CDATA[
+(function(\$)
+{
+  "use strict";
+
+  \$.fn.${1:pluginName} = function(${2:options})
+  {
+    
+  };
+})(jQuery);
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>jqplugin</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js</scope>
+  <description>new jquery plugin</description>
+</snippet>
