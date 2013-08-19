@@ -4,7 +4,6 @@
 {
   ${5:code}
 });
-http://placekitten.com/${1:g}/${2:width}/${3:height}
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>event</tabTrigger>
