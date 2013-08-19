@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+\$("${1:el}").on("${2:action}", "${3:child}", function(${4:args})
+{
+  ${5:code}
+});
+http://placekitten.com/${1:g}/${2:width}/${3:height}
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>event</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <description>jquery event</description>
+</snippet>
